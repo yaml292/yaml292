@@ -5,7 +5,8 @@
 </p>
 
 <details open>
-<summary><h2>🧠 About Me</h2></summary>
+<summary>About Me</summary>
+<h2>🧠 About Me</h2>
 
 - 👨‍🎓 Student & Web Developer
 - 🧪 Learning C# & Blazor WebAssembly with .NET
@@ -15,7 +16,8 @@
 </details>
 
 <details open>
-<summary><h2>🔗 Socials & Links</h2></summary>
+<summary>Socials & Links</summary>
+<h2>🔗 Socials & Links</h2>
 
 <a href="https://discordapp.com/users/1349382889506209883" 
     style="text-decoration: none;" target="_blank">
@@ -25,7 +27,8 @@
 </details>
 
 <details>
-<summary><h2>⚙️ Tech Stack</h2></summary>
+<summary>Tech Stack</summary>
+<h2>⚙️ Tech Stack</h2>
 
 <h3>Programming & Markup Languages</h3>
 
@@ -74,7 +77,8 @@
 </details>
 
 <details>
-<summary><h2>📊 GitHub Stats</h2></summary>
+<summary>GitHub Stats</summary>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yaml292&show_icons=true&theme=tokyonight&hide_border=true" />
